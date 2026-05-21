@@ -23,7 +23,7 @@ _Clicca per espandere le directory e leggere testi e comunicati!_
 </details>
 
 <details>
-  <summary>> [BACHECA] </summary>
+  <summary>> [ARCHIVIO] </summary>
   <ul>
     <li><a href="#">Testo bello 1.pdf</a></li>
     <li><a href="#">Zinestocazzo.pdf</a></li>
