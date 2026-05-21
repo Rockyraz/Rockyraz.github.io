@@ -1,4 +1,4 @@
-<h1 style="font-size: 3.5em; margin-bottom: 0;">LE BALC</h1>
+<h1 style="font-size: 4.5em; margin-bottom: 0;">LE BALC</h1>
 ===================================
 
 
