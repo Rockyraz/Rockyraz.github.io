@@ -13,7 +13,7 @@ Assemblea universitaria e non
 _Clicca sulle directory per espanderle_
 
 <details>
-  <summary>> [ DIR_TESTI_POLITICI ]</summary>
+  <summary>> [TESTI] </summary>
   <ul>
     <li><a href="#">Disertare l'incertezza</a></li>
     <li><a href="#">Giovani contro la Guerra</a></li>
@@ -22,7 +22,7 @@ _Clicca sulle directory per espanderle_
 </details>
 
 <details>
-  <summary>> [ DIR_FILE_CONDIVISI ]</summary>
+  <summary>> [BACHECA] </summary>
   <ul>
     <li><a href="#">Testo bello 1.pdf</a></li>
     <li><a href="#">Zinestocazzo.pdf</a></li>
