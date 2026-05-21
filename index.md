@@ -1,15 +1,15 @@
 # BALK
 ===================================
-> SISTEMA CENTRALE OPERATIVO
 
-## [ INFO_SISTEMA ]
+
+## [ INFO ]
 Assemblea universitaria e non
 * **Coordinate:** [Sede Via Conservatorio]
 * **Attività:** [blablabla]
 
 ===================================
 
-## [ DATABASE_ACCESSIBILE ]
+## [ MATERIALE ]
 _Clicca sulle directory per espanderle_
 
 <details>
@@ -31,10 +31,10 @@ _Clicca sulle directory per espanderle_
 
 ===================================
 
-## [ LOG_PROSSIMI_IMPEGNI ]
-* **[ 10 Giugno ]:** Assemblea pubblica in piazza.
-* **[ 24 Giugno ]:** Chiusura stesura documento programmatico.
-* **[ Progetto Mappatura ]:** Analisi zone dismesse (in corso).
+## [ PROSSIMI_IMPEGNI ]
+* **[ 22 maggio ]:** Assemblea giovani contro la Guerra
+* **[ Giugno ]:** Taz comitato antirep
+* **[ da definirsi ]:** Bombe
 
 ===================================
 _EOF_
