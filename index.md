@@ -1,6 +1,6 @@
 <h1 style="font-size: 4.5em; margin-bottom: 0;">LE BALC</h1>
 ===================================
-# Assemblea universitaria e non
+##[Assemblea universitaria e non]
 
 ## [ INFO ]
 
@@ -31,7 +31,7 @@ _Clicca per espandere le directory e leggere testi e comunicati!_
 
 ===================================
 
-## [ PROSSIMI_IMPEGNI ]
+## [ PROSSIMI APPUNTAMENTI ]
 * **[ 22 maggio ]:** Assemblea giovani contro la Guerra
 * **[ Giugno ]:** Taz comitato antirep
 * **[ da definirsi ]:** Bombe
